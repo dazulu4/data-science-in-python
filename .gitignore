@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Others files to ignore
+out.1
+SWEETVIZ_REPORT.html
