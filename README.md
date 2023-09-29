@@ -23,7 +23,7 @@ Con el fin de aprender, vamos a realizar la instalación de los productos sin An
 
 #### Visual Studio Code (*Opcional*)
 * Realizar la instalación de Visual Studio Code *(Opcional)*. Descargue e instale el producto, la url para descarga es la siguiente: <a href="https://code.visualstudio.com/download" target="_blank">code.visualstudio.com</a>.
-* Abra el IDE y realice la instalación de los plugins Python que desee. Los recomendados son los siguientes: Python extension for Visual Studio Code, R support for Visual Studio Code, Code Runner (Ejecutor de scripts en cualquier lenguaje).
+* Abra el IDE y realice la instalación de los plugins Python que desee. Los recomendados son los siguientes: Python extension for Visual Studio Code, Code Runner (Ejecutor de scripts en cualquier lenguaje).
 
 ## Instalación de Python con Anaconda
 Ver manual de instalación: <a href="/install-python-R-windows10.pdf" target="_blank">install-python-R-windows10.pdf</a>. Para instalar <a href="https://docs.anaconda.com/anaconda/install/windows/" target="_blank">Anaconda</a>, apoyese en la versión para Python 3.8 o 3.9.
