@@ -26,12 +26,12 @@ Con el fin de aprender, vamos a realizar la instalación de los productos sin An
 * Abra el IDE y realice la instalación de los plugins Python que desee. Los recomendados son los siguientes: Python extension for Visual Studio Code, Code Runner (Ejecutor de scripts en cualquier lenguaje).
 
 ## Instalación de Python con Anaconda
-Ver manual de instalación: <a href="/install-python-R-windows10.pdf" target="_blank">install-python-R-windows10.pdf</a>. Para instalar <a href="https://docs.anaconda.com/anaconda/install/windows/" target="_blank">Anaconda</a>, apoyese en la versión para Python 3.8 o 3.9.
+Ver manual de instalación: <a href="/install-python-R-windows10.pdf" target="_blank">install-python-windows10.pdf</a>. Para instalar <a href="https://docs.anaconda.com/anaconda/install/windows/" target="_blank">Anaconda</a>, apoyese en la versión para Python 3.8 o 3.9.
 
 ## Creación Variables de Ambiente
-Verifica que la variable de ambiente **Path** contenga las rutas correspondiente a los *bin* de Python (o Anaconda) y R. Ejemplo:
+Verifica que la variable de ambiente **Path** contenga las rutas correspondiente a los *bin* de Python (o Anaconda). Ejemplo:
 ```
-PATH=%PATH%;D:\Programas\Anaconda3;D:\Programas\Anaconda3\Library\bin;D:\Programas\Anaconda3\Scripts;D:\Programas\R\R-3.5.0\bin\x64
+PATH=%PATH%;D:\Programas\Anaconda3;D:\Programas\Anaconda3\Library\bin;D:\Programas\Anaconda3\Scripts
 ```
 
 ## Sincronización del Repositorio GitHub
